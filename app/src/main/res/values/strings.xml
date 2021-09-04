@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KmmiQuiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_splash">Education\nQuiz</string>
+    <string name="title_login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="title_home">Let\'s Go Play</string>
+    <string name="play">Play</string>
+    <string name="setting">Setting</string>
+    <string name="exit">Exit</string>
+    <string name="_100">100</string>
+    <string name="score">Score</string>
+    <string name="reza">Reza</string>
+    <string name="dummy_question">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ?</string>
+    <string name="dummy_answer">answer</string>
+    <string name="go">Go</string>
+
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="correct_s">Correct %s</string>
+    <string name="wrong_s">Wrong %s</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+    <string name="change_username">change username</string>
+    <string name="drak_mode">Drak mode</string>
+</resources>
